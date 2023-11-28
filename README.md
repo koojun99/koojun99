@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hwanjun-Koo&fontSize=50&animation=twinkling&fontAlignY=40)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanjun-Koo&layout=donut)[![Hwanjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwanjun-Koo&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koojun99&layout=donut)[![Hwanjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=koojun99&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 # Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
